@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+      "target": "es6",
+      "module": "commonjs",
+      "noImplicitAny": true,
+      "strictNullChecks": true,
+      "checkJs": true,
+
+      "noUnusedLocals": true, 
+      "noFallthroughCasesInSwitch": true
+  }
+}
